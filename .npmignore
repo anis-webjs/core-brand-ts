@@ -1,0 +1,32 @@
+# Source files
+src/
+
+# TypeScript configuration
+tsconfig.json
+
+# Development files
+*.test.ts
+*.spec.ts
+
+# Node modules
+node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Build artifacts
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
